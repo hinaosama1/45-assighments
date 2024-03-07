@@ -3,5 +3,5 @@
   Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
 
 */
-const person = "Hina azhar";
-console.log("Hello" + person + ", i am passioniate about Ai");
+let names: string = "Hina Azhar";
+console.log(`Hello ${names}, would you like to learn some python today?`);
