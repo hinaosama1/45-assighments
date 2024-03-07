@@ -4,5 +4,5 @@
   Your message should be simple, such as, “Hello Eric, would you like to learn some Python today?”
 
 */
-const person = "Hina azhar";
-console.log("Hello" + person + ", i am passioniate about Ai");
+var names = "Hina Azhar";
+console.log("Hello ".concat(names, ", would you like to learn some python today?"));
