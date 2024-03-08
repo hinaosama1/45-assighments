@@ -1,1 +1,1 @@
-# 45-assighments
+# 45-assighments of typescript
