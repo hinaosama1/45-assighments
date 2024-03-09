@@ -10,3 +10,5 @@ console.log(myarray[2]);
  
 // producing an index error
 console.log(myarray[4]);
+// finishing the error
+console.log(myarray[3];
